@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning React
+- 👯 I’m looking to collaborate on web3 hackathon projects
+- 💬 Ask me about blockchain technology
+- 📫 How to reach me: Twitter
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: For me, 30 minutes of playing Doom Eternal >>>>> 5 cups of coffee 
