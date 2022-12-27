@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning React
+- 🌱 Probably building some cool sh\*t using NextJS (maybe Solidity too).
 - 👯 I’m looking to collaborate on web3 hackathon projects
 - 💬 Ask me about blockchain technology
-- 📫 How to reach me: Twitter
+- 📫 How to reach me: [My Twitter handle](https://twitter.com/awesamarth_)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: For me, 30 minutes of playing Doom Eternal >>>>> 5 cups of coffee 
