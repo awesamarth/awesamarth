@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 Probably building some cool sh\*t using NextJS (maybe Solidity too).
+- 🌱 Probably building some cool sh\*t using NextJS and Solidity.
 - 👯 I’m looking to collaborate on web3 hackathon projects
 - 💬 Ask me about blockchain technology
 - 📫 How to reach me: [My Twitter handle](https://twitter.com/awesamarth_)
