@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I just like building cool stuff, mostly in the crypto space, and talking about how I do it. You'll find quite a lot of experiment-type projects here because I keep tinkering with different tech every now and then. 
+I like building cool stuff across developer infrastructure, agent systems, AI, and onchain products.
 
-My stack includes but is not limited to NextJS (handling both frontend and API routes), TypeScript, and TailwindCSS for the web layer, with wagmi and viem for handling blockchain interactions and when databases are needed, I use Postgres with Prisma. For smart contract development I use Solidity with Foundry. 
+You'll find lots of cool experiments here: SDKs, CLIs, MCP servers, dashboards, browser extensions, developer workflows, and smart contracts.
+
+I mostly build with TypeScript, React, Next.js, Node.js, PostgreSQL, and Zod. I’m also comfortable with Rust, Go, and Solidity.
