@@ -20,3 +20,5 @@ I like building cool stuff across developer infrastructure, agent systems, AI, a
 You'll find lots of cool experiments here: SDKs, CLIs, MCP servers, dashboards, browser extensions, developer workflows, and smart contracts.
 
 I mostly build with TypeScript, React, Next.js, Node.js, PostgreSQL, and Zod. I’m also comfortable with Rust, Go, and Solidity.
+
+<!-- gitarmy-wallet:v1 {"chain":"solana","address":"E17ndFMnc8Zr5iEU4a1CKoV6ZZXpuLPxMUeMtYd8PHTT"} -->
